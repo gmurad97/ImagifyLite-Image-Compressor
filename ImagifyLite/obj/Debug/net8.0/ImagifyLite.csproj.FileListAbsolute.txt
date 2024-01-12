@@ -1,0 +1,14 @@
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Debug\net8.0\ImagifyLite.exe
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Debug\net8.0\ImagifyLite.deps.json
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Debug\net8.0\ImagifyLite.runtimeconfig.json
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Debug\net8.0\ImagifyLite.dll
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Debug\net8.0\ImagifyLite.pdb
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\ImagifyLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\ImagifyLite.AssemblyInfoInputs.cache
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\ImagifyLite.AssemblyInfo.cs
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\ImagifyLite.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\ImagifyLite.dll
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\refint\ImagifyLite.dll
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\ImagifyLite.pdb
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\ImagifyLite.genruntimeconfig.cache
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Debug\net8.0\ref\ImagifyLite.dll
