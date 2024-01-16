@@ -39,7 +39,7 @@ namespace ImagifyLite
                 Console.ForegroundColor = ConsoleColor.DarkCyan;
                 Console.WriteLine(
                     ">Author:\tGMURAD97\n" +
-                    ">Version:\t0.2"
+                    ">Version:\t0.2.1"
                     );
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine(new string('=', 80));
@@ -49,10 +49,17 @@ namespace ImagifyLite
 
         public void ProcessImage(string inputImagePath, int quality)
         {
-            using (MagickImage magickImage = new MagickImage(inputImagePath))
+            try
             {
-                magickImage.Quality = quality;
-                magickImage.Write(Path.Combine(outputFolderPath, Path.GetFileName(inputImagePath)));
+                using (MagickImage magickImage = new MagickImage(inputImagePath))
+                {
+                    magickImage.Quality = quality;
+                    magickImage.Write(Path.Combine(outputFolderPath, Path.GetFileName(inputImagePath)));
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Error!This is no image!" + Path.GetFileName(inputImagePath));
             }
         }
     }
