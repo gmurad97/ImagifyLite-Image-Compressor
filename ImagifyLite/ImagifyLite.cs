@@ -1,13 +1,26 @@
 ﻿using System;
 using System.IO;
 using ImageMagick;
+using System.Collections.Generic;
 
 namespace ImagifyLite
 {
     internal class ImagifyLite
     {
-        public readonly string inputFolderPath = null;
-        public readonly string outputFolderPath = null;
+        public string inputFolderPath = null;
+        public string outputFolderPath = null;
+        public string[] getFiles = null;
+
+
+        public ImagifyLite(string inputFolderPath,string outputFolderPath,)
+        {
+
+        }
+
+
+
+
+
 
         public ImagifyLite(string inputFolderPath, string outputFolderPath)
         {
