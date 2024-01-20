@@ -1,0 +1,15 @@
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\Magick.Native-Q16-arm64.dll
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\Magick.Native-Q16-x64.dll
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\Magick.Native-Q16-x86.dll
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\ImagifyLite.exe.config
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\ImagifyLite.exe
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\ImagifyLite.pdb
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\Magick.NET.Core.dll
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\bin\Release\Magick.NET.Core.xml
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Release\ImagifyLite.csproj.AssemblyReference.cache
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Release\ImagifyLite.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Release\ImagifyLite.csproj.CopyComplete
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Release\ImagifyLite.exe
+C:\Users\Anonymous\source\repos\ImagifyLite\ImagifyLite\obj\Release\ImagifyLite.pdb
